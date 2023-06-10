@@ -1,0 +1,94 @@
+body{
+    background-color: #eaeded;
+    text-align: center;
+    margin: 0;
+}
+
+.box{
+    width: 23%;
+    height: auto;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+header{
+    background-color: #222f3e;
+    text-align: left;
+    margin-top: 0px;
+    height: 80px;
+}
+
+.pleft{
+    width: 100%;
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+h4{
+    background-color: #f56600;
+    color: white;
+    font-style: normal;
+    padding: 4px;
+    margin: 20px;
+}
+
+menu a{
+    color: white;
+    /* text-decoration: none; */
+    padding:10px;
+}
+
+a{
+    text-decoration: none;
+}
+
+menu{
+    background-color: #354758;
+}
+
+#logo{
+    width: 10em;
+    margin-left: 20px;
+}
+
+.onediv{
+    background-size: 100%;
+    background-image: url("../img/bg-image.png");
+    height: 100px;
+    /* display: flex; */
+    /* flex-direction: column; */
+    padding-top: 30px;
+    color: white;
+    margin: 20px;
+}
+
+.twodiv{
+    background-color: white;
+    margin: 20px;
+}
+
+.threediv{
+    /* height: 250px; */
+    margin: 20px;
+}
+
+.fourdiv{
+    /* height: 250px; */
+    margin: 20px;
+}
+
+footer{
+    background-color: #222f3e;
+}
+
+footer img{
+    height: 50px;
+    padding: 20px;
+}
+
+.btt{
+    background-color: #354758;
+    color: white;
+    padding: 5px;
+}
